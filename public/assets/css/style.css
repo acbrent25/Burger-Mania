@@ -1,0 +1,36 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  list-style-type: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+
+body {
+  font-family: 'Cabin', sans-serif;
+}
+
+h1,h2,h3 {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
+
+.jumbotron {
+  background: url('/assets/img/burger-mania-bg.jpg');
+  background-size: cover;
+  padding: 10rem 2rem;
+  color: #fff;
+}
