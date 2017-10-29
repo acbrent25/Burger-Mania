@@ -34,3 +34,28 @@ h1,h2,h3 {
   padding: 10rem 2rem;
   color: #fff;
 }
+
+div#burger-list {
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+div#must-eat {
+  background: #dd3333;
+  color: #fff;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #dd3333;
+  border-color: #dd3333;
+}
+
+.list-group-item {
+  border: none;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.btn {
+  border-radius: .15rem;
+}
