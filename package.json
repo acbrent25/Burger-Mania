@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-    
   },
   "author": "Adam Champagne",
   "license": "ISC",
@@ -14,6 +13,7 @@
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "express-handlebars": "^2.0.1",
+    "handlebars": "^4.0.11",
     "mysql": "^2.10.2"
   },
   "devDependencies": {
